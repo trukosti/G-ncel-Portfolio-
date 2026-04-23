@@ -1,15 +1,12 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=d4a855&height=120&section=header&text=&fontSize=0" width="100%"/>
 
-# Hi there 👋 I'm a Full-Stack Web Developer
-
-**Designing and building websites across e-commerce, tourism, energy, and professional services**  
+# Hi there 👋 I'm Yusuf Gümüşay
+**Full-Stack Web Developer — Designing and building websites across e-commerce, tourism, energy, and professional services**  
 *Turkey · Germany · Netherlands · Australia*
 
 [![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-0c0c0b?style=for-the-badge)](https://github.com/YOUR_USERNAME)
 [![Email](https://img.shields.io/badge/Email-d4a855?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yusuf.gumusay@icloud.com)
-
 </div>
 
 ---
@@ -29,7 +26,7 @@
 
 ## 🌐 Live Projects
 
-###  E-Commerce
+### E-Commerce
 
 | # | Project | URL | Region |
 |---|---------|-----|--------|
@@ -42,8 +39,7 @@
 | 7 | Alzataki | [alzataki.com](https://alzataki.com/) | 🌍 INT |
 | 8 | Serhat Spor | [serhatspor.com.tr](https://serhatspor.com.tr) | 🇹🇷 TR |
 
-
-###  Tourism
+### Tourism
 
 | # | Project | URL | Region |
 |---|---------|-----|--------|
@@ -52,21 +48,18 @@
 | 3 | Excursion Pamukkale | [excursionpamukkale.com](https://excursionpamukkale.com) | 🇹🇷 TR |
 | 4 | Pamukkale Paragliding | [pamukkaleparagliding.com](https://pamukkaleparagliding.com) | 🇹🇷 TR |
 
-###  Energy & Business
+### Energy & Business
 
 | # | Project | URL | Region |
 |---|---------|-----|--------|
 | 1 | Ventus GmbH | [ventusgmbh.de](https://ventusgmbh.de) | 🇩🇪 DE |
-| 4 | MKB Energie Adviseur | [mkbenergieadviseur.nl](https://mkbenergieadviseur.nl) | 🇳🇱 NL |
-| 5 | Tarif Services | [tarifservices.de](https://tarifservices.de) | 🇩🇪 DE |
-| 6 | Online Lease Vergelijker | [onlineleasevergelijker.nl](https://onlineleasevergelijker.nl) | 🇳🇱 NL |
+| 2 | MKB Energie Adviseur | [mkbenergieadviseur.nl](https://mkbenergieadviseur.nl) | 🇳🇱 NL |
+| 3 | Tarif Services | [tarifservices.de](https://tarifservices.de) | 🇩🇪 DE |
+| 4 | Online Lease Vergelijker | [onlineleasevergelijker.nl](https://onlineleasevergelijker.nl) | 🇳🇱 NL |
 
 ---
 
 <div align="center">
-
- TR · DE · NL · AU
-
+TR · DE · NL · AU
 <img src="https://capsule-render.vercel.app/api?type=waving&color=d4a855&height=80&section=footer" width="100%"/>
-
 </div>
